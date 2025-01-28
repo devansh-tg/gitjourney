@@ -1,1 +1,2 @@
 my journey of github starts from here hopefully i do best
+the second thing that i have done is understanding upstream and learn how to push file
